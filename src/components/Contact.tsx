@@ -2,8 +2,8 @@ import { motion } from 'framer-motion';
 import { Send } from 'lucide-react';
 
 const Contact = () => {
-  const TELEGRAM_LINK = "https://t.me/iziki_club";
-  const MAX_LINK = "https://max.ru/iziki_club";
+  const TELEGRAM_LINK = "tg://resolve?domain=izikids";
+  const MAX_LINK = "https://max.ru/u/f9LHodD0cOKrkRyF3EQE6wJA59IYrIy2-NvlFCpLOgsKJXhNA2pfO1w5Fkc";
 
   return (
     <section id="contact" className="container">
