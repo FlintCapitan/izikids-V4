@@ -48,7 +48,7 @@ const Hero = () => {
         style={{ marginTop: "40px" }}
       >
         <img
-          src="https://i.oneme.ru/i?r=B09HQN0Qr3SEKX3_pN1dYt74gzEAyJd6Zd8l1_i47DNcskKmuCNPZ6P2RqT0jTijs2uDtisR1Hg0VS_96br9hz0cjwZ_Y5igj-FTC1WZprM&expires=1795208373070"
+          src="https://i.oneme.ru/i?r=B09HQN0Qr3SEKX3_pN0dlAncyS9_QbZGWOW8yVYpy39mQp490l6PSkKrFbQNvGHb1yvsf6uK5ZRy7CiJmP-JA-aaO9IyVQ1QOcY7dG7_2bs&expires=1795217093438"
           alt="Дети в клубе ИЗИКИ"
           style={{
             width: "100%",
