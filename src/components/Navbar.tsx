@@ -1,14 +1,13 @@
-
 import { motion } from 'framer-motion';
 
 const Navbar = () => {
-
+  // Анимация для ссылок навигации
   const linkVariants = {
     initial: { y: 0, color: '#333' },
     hover: {
       y: -3,
       color: 'var(--pink)',
-      transition: { duration: 0.2, ease: 'easeInOut' }
+      transition: { duration: 0.2, ease: 'easeInOut' as const }
     }
   };
 
