@@ -2,10 +2,10 @@ import { motion } from 'framer-motion';
 
 const Gallery = () => {
   const photos = [
-    "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=600&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=600&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1587654780291-39c9404d746b?q=80&w=600&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1544717297-fa95b6ee9643?q=80&w=600&auto=format&fit=crop",
+    "https://i.oneme.ru/i?r=B09HQN0Qr3SEKX3_pN3CJ-AVBFkAHsRdfGtxESwnKWXOynv9Zu7mcdJJtLgz3LmfIUh0DfEa75vBi0zHjIEj2zLO0Jh0p75J3iaBx7efMFc&expires=1795196057953",
+    "https://i.oneme.ru/i?r=B09HQN0Qr3SEKX3_pN2MQfLYoLel0vWjUhGvxxR_cOIdP05IInLwk6yoa1BNQQXkLzXU9dv9iHTWNFaSyCfzviV3-P4KYMj0OGG4LCleIS8&expires=1795197974785",
+    "https://i.oneme.ru/i?r=B09HQN0Qr3SEKX3_pN0n09uN6LA_yWItPRZzbZGhv4KveKNJ5JVL9Mr_nDQ2sUEMpBimCKpKGywVMe4v5kZRiRSGdV8wGWpK3-fiZQ5Tk4c&expires=1795213866911",
+    "https://i.oneme.ru/i?r=B09HQN0Qr3SEKX3_pN2kLHd2AJLWRG2WZ-LRnEGSfPKES23cQwR5Pp04fKa22nvFmJGNcXcJ98CuzsiZyiQ0yOw-6udCuF722vliysCbXJM&expires=1795194268674",
   ];
 
   return (
